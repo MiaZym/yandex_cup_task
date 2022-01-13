@@ -14,7 +14,7 @@
 
 __________________________________________________________
 
-The task was taken from the Яндекс.Контест  platform from the yandexcup 2021   of analytics.
+The task was taken from the Yandex.Contest platform from the yandexcup 2021   of analytics.
 
 The international ticket sales service decided to sum up the results of the theater season. As one of the metrics, the project manager wants to count the number of users who bought tickets for different performances.
 When buying a ticket, the user indicates his phone number. It is necessary to find the performance with the largest number of unique phone numbers. And count the number of corresponding unique phone numbers. 
